@@ -120,7 +120,7 @@ for a sandbox environment but is insufficient for a production environment.
 
 5. Save your changes.
 6. Repeat steps 1-5 for the remaining hard disks.
-7. Reboot the VM.
+7. Power on the VM.
 
 ## Next steps
 
